@@ -1,5 +1,5 @@
 # Spark convertir jason a formato tabular
-Usando PYSPARK, convertir  JSON "airports.csv" del CP M4 con formato STRUCT a formato TABULAR
+Usando PYSPARK, convertir  JSON "airports.json" del CP M4 con formato STRUCT a formato TABULAR
 
 # Contenido
 - cp_m4_json_explode_miguel.ipynb : notebookk con el codigo fuente
